@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NTNU-Machado-Lab/BT2100/HEAD)
+
 # BT2100 - Computational Biotechnology
 
 Practical exercises for the BT2100 Computational Biotechnology course.
