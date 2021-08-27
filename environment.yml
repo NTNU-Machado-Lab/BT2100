@@ -1,7 +1,9 @@
 channels:
+  - conda-forge
   - bioconda
 
 dependencies:
   - pandas
   - matplotlib
+  - biopython
   - spades
