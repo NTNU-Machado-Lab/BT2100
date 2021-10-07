@@ -1,3 +1,4 @@
+name: bt2100
 channels:
   - etetoolkit
   - conda-forge
