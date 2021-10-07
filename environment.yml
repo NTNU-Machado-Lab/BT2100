@@ -6,9 +6,9 @@ channels:
 dependencies:
   - pandas
   - matplotlib
-  - biopython
-  - spades
-  - prokka
-  - ete3
-  - clustalo
-  - fasttree
+  - bioconda::biopython
+  - bioconda::spades
+  - bioconda::prokka
+  - etetoolkit::ete3
+  - bioconda::clustalo
+  - bioconda::fasttree
