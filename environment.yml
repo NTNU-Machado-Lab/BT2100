@@ -5,8 +5,6 @@ channels:
   - bioconda
 
 dependencies:
-  - python=3.7
-  - jupyterlab
   - matplotlib
-  - biopython
   - pandas
+  - biopython
