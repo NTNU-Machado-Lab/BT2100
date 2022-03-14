@@ -9,3 +9,5 @@ dependencies:
   - pandas
   - biopython
   - seaborn
+  - pyvis
+  - statsmodels
