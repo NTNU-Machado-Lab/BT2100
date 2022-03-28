@@ -1,5 +1,11 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NTNU-Machado-Lab/BT2100/HEAD?urlpath=lab)
 
+Binder hubs: 
+- gke: [![Binder](https://mybinder.org/badge_logo.svg)](https://gke.mybinder.org/v2/gh/NTNU-Machado-Lab/BT2100/HEAD?urlpath=lab)
+- ovh: [![Binder](https://mybinder.org/badge_logo.svg)](https://ovh.mybinder.org/v2/gh/NTNU-Machado-Lab/BT2100/HEAD?urlpath=lab)
+- gesis: [![Binder](https://mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/NTNU-Machado-Lab/BT2100/HEAD?urlpath=lab)
+- turing: [![Binder](https://mybinder.org/badge_logo.svg)](https://turing.mybinder.org/v2/gh/NTNU-Machado-Lab/BT2100/HEAD?urlpath=lab)
+
 # BT2100 - Computational Biotechnology
 
 Practical exercises for the BT2100 Computational Biotechnology course.
