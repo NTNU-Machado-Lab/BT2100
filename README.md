@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NTNU-Machado-Lab/BT2100/HEAD?urlpath=lab)
 
-Binder hubs: 
+Binder hub mirrors (check status [here](https://mybinder.readthedocs.io/en/latest/about/status.html)): 
 - gke: [![Binder](https://mybinder.org/badge_logo.svg)](https://gke.mybinder.org/v2/gh/NTNU-Machado-Lab/BT2100/HEAD?urlpath=lab)
 - ovh: [![Binder](https://mybinder.org/badge_logo.svg)](https://ovh.mybinder.org/v2/gh/NTNU-Machado-Lab/BT2100/HEAD?urlpath=lab)
 - gesis: [![Binder](https://mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/NTNU-Machado-Lab/BT2100/HEAD?urlpath=lab)
