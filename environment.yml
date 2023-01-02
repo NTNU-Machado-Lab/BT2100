@@ -1,13 +1,20 @@
 name: bt2100
 
 channels:
-  - conda-forge
-  - bioconda
+  - bioconda  # required for biopython
+  - conda-forge # required for pyvis
 
 dependencies:
+  - jupyterlab
   - matplotlib
   - pandas
   - biopython
   - seaborn
-  - pyvis
   - statsmodels
+  - pyvis
+
+
+# if not using conda-forge  
+#  - pip
+#  - pip:
+#    - pyvis  #also availabe in conda-forge
