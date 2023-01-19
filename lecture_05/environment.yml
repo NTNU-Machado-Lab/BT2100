@@ -1,0 +1,11 @@
+name: lecture5
+
+channels:
+  - bioconda
+  - etetoolkit  
+
+dependencies:
+  - jupyterlab
+  - clustalo
+  - fasttree
+  - ete3
