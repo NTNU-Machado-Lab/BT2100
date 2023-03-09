@@ -1,10 +1,11 @@
 .ipynb_checkpoints/*
 */.ipynb_checkpoints/*
+*/*/.ipynb_checkpoints/*
+*/*/*/.ipynb_checkpoints/*
 .DS_Store
 */.DS_Store
 lecture_02/output/*
 lecture_02/long_contigs.fasta
-lecture_03/files/output/.ipynb_checkpoints/*
 lecture_09/tmp.html
 lecture_14/tmp.html
-lecture_15/files/.ipynb_checkpoints/metabolomics-checkpoint.csv
+
