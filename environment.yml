@@ -6,9 +6,9 @@ channels:
 
 dependencies:
   - jupyterlab   # lectures: all
-  - matplotlib   # lectures:
+  - matplotlib   # lectures: 2
   - pandas       # lectures:
-  - biopython    # lectures:
+  - biopython    # lectures: 2
   - seaborn      # lectures:
   - statsmodels  # lectures: 14
   - pyvis        # lectures: 9, 14
