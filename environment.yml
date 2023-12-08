@@ -1,18 +1,19 @@
 name: bt2100
 
 channels:
-  - bioconda    # required for biopython, goatools
+  - bioconda    # required for biopython, pyrodigal, goatools
   - conda-forge # required for pyvis
 
 dependencies:
   - jupyterlab   # lectures: all
   - matplotlib   # lectures: 2
-  - pandas       # lectures:
-  - biopython    # lectures: 2
-  - seaborn      # lectures:
-  - statsmodels  # lectures: 14
-  - pyvis        # lectures: 9, 14
+  - biopython    # lectures: 2, 3
+  - pyrodigal    # lectures: 3
   - goatools     # lectures: 7
+  - pyvis        # lectures: 9, 14
+  - statsmodels  # lectures: 14
+  - pandas       # lectures:
+  - seaborn      # lectures:
 
 
 # alternatively availabe in pip: 
