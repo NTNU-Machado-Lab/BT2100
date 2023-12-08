@@ -7,7 +7,7 @@ channels:
 dependencies:
   - jupyterlab   # lectures: all
   - matplotlib   # lectures: 2
-  - biopython    # lectures: 2, 3
+  - biopython    # lectures: 2, 3, 4
   - pyrodigal    # lectures: 3
   - goatools     # lectures: 7
   - pyvis        # lectures: 9, 14
