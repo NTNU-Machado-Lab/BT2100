@@ -13,5 +13,5 @@ dependencies:
   - goatools     # lectures: 7
   - pyvis        # lectures: 9, 14
   - statsmodels  # lectures: 14
-  - pandas       # lectures:
+  - pandas       # lectures: 9
   - seaborn      # lectures:
