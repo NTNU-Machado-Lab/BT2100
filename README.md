@@ -1,5 +1,5 @@
 
-[![NTNU](https://img.shields.io/badge/NTNU-JupyterHub-blue)](https://bt2100.apps.stack.it.ntnu.no/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FNTNU-Machado-Lab%2FBT2100&urlpath=lab%2Ftree%2FBT2100%2F)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NTNU-Machado-Lab/BT2100/HEAD?urlpath=lab) 
+[![NTNU](https://img.shields.io/badge/NTNU-JupyterHub-blue)](https://bt2100.apps.stack.it.ntnu.no/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FNTNU-Machado-Lab%2FBT2100&urlpath=lab%2Ftree%2FBT2100%2F)  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NTNU-Machado-Lab/BT2100/mybinder?urlpath=lab) 
 
 
 -------
