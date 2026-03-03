@@ -6,6 +6,6 @@
 */.DS_Store
 lecture_02/output/*
 lecture_02/long_contigs.fasta
-lecture_09/tmp.html
+lecture_09/*.html
 lecture_14/tmp.html
-
+lecture_09/lib/*
