@@ -9,7 +9,8 @@ dependencies:
   - matplotlib   # lectures: 2, 7
   - biopython    # lectures: 2, 3, 4, 6, 7
   - pyrodigal    # lectures: 3
-  - nglview      # lectures: 6
+  - nglview=3.1.4  # lectures: 6 (nglview needs to be downgraded to 3.1.4 due to problem with 4.0)
+  - setuptools=81  # tmp fix for nglview 3.1.4 not working with setuptools >=82
   - goatools     # lectures: 7
   - pyvis        # lectures: 9, 14
   - statsmodels  # lectures: 14
